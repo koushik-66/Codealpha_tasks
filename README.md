@@ -109,7 +109,7 @@ Through these projects, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Bhanu Charan**
+**koushik veeral**
 
 GitHub: https://github.com/koushik-66
 
